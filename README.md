@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Gulshan0
-- 👀 I’m interested in web development,software development,js,c++,php.
-- 🌱 I’m currently learning Web dev.,js,c++.
-- 💞️ I’m looking to collaborate on c++ and javascript.
+- 👋 Hi, I’m Gulshan
+- 👀 I’m interested in game development, software development.
+- 🌱 I’m currently learning c++, game development(UE4), SQL.
+- 💞️ I’m looking to collaborate on c++.
 - 📫 How to reach me  Email- diwakar9617@gmail.com,instagram- @gulshandiwakar1
 
 <!---
