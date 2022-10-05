@@ -1,10 +1,4 @@
-- 👋 Hi, I’m Gulshan
+- 👋 Hi, I’m Gulshan Aka Gk
 - 👀 I’m interested in game development, software development.
-- 🌱 I’m currently learning c++, game development(UE4), SQL.
-- 💞️ I’m looking to collaborate on c++.
+- 🌱 I’m currently learning C++, python, DotNet etc.
 - 📫 How to reach me  Email- diwakar9617@gmail.com, Discord: Gk#9755
-
-<!---
-Gulshan0/Gulshan0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
