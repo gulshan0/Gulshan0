@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Gulshan Aka Gk
 - 👀 I’m interested in Software development & Android development
 - 🌱 I’m currently learning C++, python,android developmet with kotlin 
-- 📫 How to reach me  Email- diwakar9617@gmail.com, Discord: Gk#9755
+- 📫 How to reach me  Email- diwakar9617@gmail.com, Discord: gk.0
