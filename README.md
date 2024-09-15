@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Gk
-- 👀 I’m interested in Software development & Android development
-- 🌱 I’m currently learning C++, python,android developmet with kotlin 
-- 📫 How to reach me  Email- gulshan0.dev@gmail.com, Discord: gk.0
+- 👀 I’m interested in Data and AI & ML
+- 📫 How to reach me  Email- gulshan0.dev@gmail.com
